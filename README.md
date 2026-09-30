@@ -3,6 +3,7 @@
 Um rastreador pessoal de candidaturas de estágio/emprego, em formato kanban (Enviado → Em processo → Entrevista → Aprovado/Rejeitado). Criei esse projeto porque é exatamente o problema que eu tinha: várias candidaturas abertas ao mesmo tempo, cada uma em uma etapa diferente, e nenhuma forma centralizada de acompanhar isso.
 
 **Demo publicada:** https://vaga-tracker.onrender.com/
+
 **Repositório:** https://github.com/Matheus-MN/vaga-tracker
 
 ## Como foi construído
